@@ -29,3 +29,6 @@ def febinnaci_series():
         c=b
         b=a
         print(c)
+
+
+try to this 
